@@ -1,0 +1,8 @@
+@font-face {
+    font-family: '배민한나체PRO';
+    src: url(../src/BMHANNAPro.ttf);
+}
+
+*{
+    font-family: '배민한나체PRO';
+}
