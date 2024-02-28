@@ -11,19 +11,19 @@ const button = document.getElementById("register");
 function countMovie(){
     let count = 0;
     if (checkbox1.checked === true) {
-        count = count + 1;
+        count++;
     }
     if (checkbox2.checked === true) {
-        count = count + 1;
+        count++;
     }
     if (checkbox3.checked === true) {
-        count = count + 1;
+        count++;
     }
     if (checkbox4.checked === true) {
-        count = count + 1;
+        count++;
     }
     if (checkbox5.checked === true) {
-        count = count + 1;
+        count++;
     }
     return count;
 }
